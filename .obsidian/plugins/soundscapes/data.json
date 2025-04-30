@@ -1,0 +1,70 @@
+{
+  "soundscape": "MY_MUSIC",
+  "volume": 100,
+  "autoplay": false,
+  "scrollSongTitle": true,
+  "customSoundscapes": [],
+  "myMusicIndex": [
+    {
+      "fileName": "1. Beauz - Treasure U.mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/1. Beauz - Treasure U.mp3",
+      "title": "1. Beauz - Treasure U",
+      "duration": 180.03591836734694
+    },
+    {
+      "fileName": "1. Gaiyu - Shimokita.mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/Gaiyu - Shimokita (2024)/1. Gaiyu - Shimokita.mp3",
+      "title": "1. Gaiyu - Shimokita",
+      "duration": 115.48734693877552
+    },
+    {
+      "fileName": "1. Gaiyu - Shimokita (Slowed).mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/Gaiyu - Shimokita (Slowed) (2024)/1. Gaiyu - Shimokita (Slowed).mp3",
+      "title": "1. Gaiyu - Shimokita (Slowed)",
+      "duration": 137.2473469387755
+    },
+    {
+      "fileName": "Hope Is the Thing With Feathers (Boss Battle Version) - Honkai Star Rail 2.2 OST.mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/Hope Is the Thing With Feathers (Boss Battle Version) - Honkai Star Rail 2.2 OST.mp3",
+      "title": "Hope Is the Thing With Feathers (Boss Battle Version) - Honkai: Star Rail 2.2 OST",
+      "artist": "PeachyFranny",
+      "duration": 257.376
+    },
+    {
+      "fileName": "Hope Is the Thing With Feathers · Overture (Extended) - Honkai Star Rail 2.2 OST.mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/Hope Is the Thing With Feathers · Overture (Extended) - Honkai Star Rail 2.2 OST.mp3",
+      "title": "Hope Is the Thing With Feathers · Overture (Extended) - Honkai: Star Rail 2.2 OST",
+      "artist": "Ted Jacobs",
+      "duration": 270.048
+    },
+    {
+      "fileName": "Pachi - RE Aoharu x Luminous Memory.mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/Pachi - RE Aoharu x Luminous Memory.mp3",
+      "title": "Pachi - RE Aoharu x Luminous Memory",
+      "duration": 246.23020408163265
+    },
+    {
+      "fileName": "Wuthering Waves - Seed of Purity.mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/Wuthering Waves - Seed of Purity.mp3",
+      "title": "Wuthering Waves - Seed of Purity",
+      "duration": 73.24734693877551
+    },
+    {
+      "fileName": "1. Zachz Winner - discopled.mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/Zachz Winner - discopled (2024)/1. Zachz Winner - discopled.mp3",
+      "title": "1. Zachz Winner - discopled",
+      "duration": 86.54367346938776
+    },
+    {
+      "fileName": "[Honkai Star Rail OST] Hope Is the Thing With Feathers (All Variations Mix).mp3",
+      "fullPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA/[Honkai Star Rail OST] Hope Is the Thing With Feathers (All Variations Mix).mp3",
+      "title": "[Honkai: Star Rail OST] Hope Is the Thing With Feathers (All Variations Mix)",
+      "artist": "El Greco",
+      "duration": 340.152
+    }
+  ],
+  "myMusicFolderPath": "/Users/maccredyreina/Desktop/Main Space/SYSTEM/ASSETS/MEDIA",
+  "reindexFrequency": "1440",
+  "myMusicShuffle": false,
+  "currentTrackIndex": 8
+}

@@ -1,0 +1,384 @@
+{
+  "main": {
+    "id": "7fa45a73674a7b32",
+    "type": "split",
+    "children": [
+      {
+        "id": "171d8d1bfabd0080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d788b3e75c3c9c42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAILY/DAILY/2025-02-14.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-02-14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c28cfae046d28b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb7552c6126461e8",
+        "type": "tabs",
+        "dimension": 73.83292383292384,
+        "children": [
+          {
+            "id": "250c5f6efff2f242",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6fa8a46648d62218",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4862ed181d29f3fe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "b94dcb9d96b5f843",
+        "type": "tabs",
+        "dimension": 26.167076167076164,
+        "children": [
+          {
+            "id": "e94c2006ca70689a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "DAILY/DAILY/2025-02-14.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [
+                    {
+                      "query": "path:100-UTTU人物合辑/ ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14701138
+                      }
+                    },
+                    {
+                      "query": "path:200-相从心生/ ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "path:300-以影像之/ ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 2790132
+                      }
+                    },
+                    {
+                      "query": "path:000-箱的构成/ ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 15636512
+                      }
+                    }
+                  ],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1.50225016276042,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6847167020791121,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of 2025-02-14"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "3690d4dad9b484cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3b59b964d45b39b",
+        "type": "tabs",
+        "dimension": 35.14211886304909,
+        "children": [
+          {
+            "id": "fcfeade928c29023",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "13eab36a72e3758c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "98db33289fda3d43",
+            "type": "leaf",
+            "state": {
+              "type": "calendar-view",
+              "state": {},
+              "icon": "lucide-calendar-check",
+              "title": "日历"
+            }
+          },
+          {
+            "id": "1fb24153cebf7b97",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "a496d3eb11169b70",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "a0af558e737c8c63",
+        "type": "tabs",
+        "dimension": 64.85788113695091,
+        "children": [
+          {
+            "id": "0ff60fab5f307ba0",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
+            }
+          },
+          {
+            "id": "e05dbb992a38c77c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "381f1e4757e8cce8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DAILY/DAILY/2025-02-14.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-02-14"
+            }
+          },
+          {
+            "id": "e38c54133e209543",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DAILY/DAILY/2025-02-14.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-02-14"
+            }
+          },
+          {
+            "id": "13acd894b8df892c",
+            "type": "leaf",
+            "state": {
+              "type": "thino_view",
+              "state": {},
+              "icon": "Memos",
+              "title": "Thino"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "float-search:Search obsidian in modal view": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-kanban:Create new board": false,
+      "soundscapes:Soundscapes: My Music": false,
+      "custom-sort:Toggle custom sorting": false,
+      "obsidian-memos:Thino": false,
+      "cmdr:Projects": false,
+      "templater-obsidian:Templater": false,
+      "cmdr:Style Settings 悬浮面板": false,
+      "cmdr:切换明暗主题": false,
+      "cmdr:在文件列表中显示当前文件": false,
+      "obsidian-projects:Open projects": true,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-custom-frames:Open Todoist": false,
+      "obsidian-custom-frames:Open ChatGPT": false,
+      "obsidian-custom-frames:Open YouTube": false
+    }
+  },
+  "active": "d788b3e75c3c9c42",
+  "lastOpenFiles": [
+    "README.md",
+    "ZETA/LiteratureNotes/12ThangHoc.md",
+    "HUB/Homepage.md",
+    "PARA/PROJECTS/How Dp GPU Work?/GPU GA102 Architecture.md",
+    "SYSTEM/SCRIPT",
+    "METADATA/VS-CODE SETTING BACKUP.md",
+    "Untitled.md",
+    "SYSTEM/ASSETS/TEMP/Trash/VS-CODE SETTING BACKUP.md",
+    "SYSTEM/ASSETS/TEMP/Trash",
+    "SYSTEM/ASSETS/TEMP/untitled folder",
+    "SYSTEM/ASSETS/image-20250217013131613.png",
+    "SYSTEM/ASSETS/PHOTO/IMG_4701.jpg",
+    "SYSTEM/ASSETS/PHOTO/IMG_4467.jpg",
+    "SYSTEM/ASSETS/PHOTO/IMG_4311.jpg",
+    "SYSTEM/ASSETS/PHOTO/IMG_4070.jpg",
+    "SYSTEM/ASSETS/PHOTO/IMG_3802.jpg",
+    "SYSTEM/ASSETS/PHOTO/IMG_3801.jpg",
+    "SYSTEM/ASSETS/PHOTO/IMG_3800.jpg",
+    "SYSTEM/ASSETS/PHOTO/IMG_3799.jpg",
+    "SYSTEM/ASSETS/PHOTO/IMG_3797.jpg",
+    "SYSTEM/ASSETS/PHOTO",
+    "SYSTEM/ASSETS/untitled folder",
+    "METADATA/BackUP Vault/BackUp Orig/SYSTEM/TEMPLATE/FORMAT/template_project_note.md",
+    "HUB/Mail Box.md",
+    "PARA/PROJECTS/Prompt lib/Perplexity Template..md",
+    "HUB/Map of Content.md",
+    "ZETA/PERMANENT",
+    "ZETA/FLEETING/Untitled.md",
+    "ZETA/FLEETING",
+    "ZETA/LiteratureNotes",
+    "ZETA/LITERATURE/Web Dev/B2.md",
+    "ZETA/LITERATURE/React/Untitled.md",
+    "ZETA/LITERATURE/Git How to use?/Git & Github basic.md",
+    "ZETA/LITERATURE/Web Dev",
+    "ZETA/LITERATURE/React",
+    "ZETA/CLIPPINGS/Youtube/Want this useful live server extension on your Visual Studio Code? here you Go!If you want more tutorials about web development and web design that include HTML, CSS, JavaScript, Bootstrap, Login Fo.md",
+    "ZETA/CLIPPINGS/Youtube/2024-10-19 VIDEO Branch Education - How do Graphics Cards Work  Exploring GPU Architecture.md",
+    "PARA/RESOURCES/CONCEPT MAP/Drawing 2025-02-19 22.10.40.excalidraw.md",
+    "PARA/PROJECTS/Topic 19/Buổi 1.md",
+    "PARA/PROJECTS/Prompt lib/Prompt Engineering ChatGPT A - Z 6 Chiến Lược Cốt Lõi từ OpenAI.md",
+    "PARA/PROJECTS/Prompt lib/Nguyên tắc tạo ra prompt \"Long Chain-of-Thought\" (Long CoT) hiệu quả cho LLMs.md",
+    "PARA/PROJECTS/Prompt lib/Basic Prompt.md",
+    "PARA/PROJECTS/Prompt lib/Advanced.md",
+    "PARA/PROJECTS/Prompt lib/AI Reasoning Không Chỉ Là Biết, Mà Là Hiểu!.md",
+    "PARA/PROJECTS/DA_CSDLNC/Untitled.md"
+  ]
+}
